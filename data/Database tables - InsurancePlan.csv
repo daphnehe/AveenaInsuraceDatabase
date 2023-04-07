@@ -1,0 +1,7 @@
+plan_id,name,coverage_percentage,remaining_percentage
+pl1,bronze,60,40
+pl2,silver,70,30
+pl3,gold,80,20
+pl4,platinum,90,10
+pl5,Catastrophic,65,35
+pl6,Prefered Provider Organization,75,25

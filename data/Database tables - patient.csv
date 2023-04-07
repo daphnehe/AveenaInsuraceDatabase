@@ -1,0 +1,36 @@
+patient_id,first_name,last_name,bmi,race,age_range,SSN,sex,policyholder_id,state,city
+p01,James,Wang,28.025,Asian,35-44,219452418,Male,h01,Washington,Bellevue
+p02,Robert,Wang,17.29,Asian,Under 18,156782930,Male,h01,Washington,Bellevue
+p03,Jinny,Wang,24.7,Asian,Under 18,672830938,Female,h01,Washington,Bellevue
+p04,Bob,Miller,33.25,Native American,45-54,365874098,Male,h02,California,San Diego
+p05,John,Miller,27.835,Native American,Under 18,673829609,Male,h02,California,San Diego
+p06,Sarah,Davis,17.195,White,25-34,253968372,Female,h03,Colorado,Denver
+p07,Emma,Davis,35.15,White,Under 18,486579283,Female,h03,Colorado,Denver
+p08,Mark,Sanchez,40.48,Hispanic,Over 65,395847091,Male,h04,Florida,Miami
+p09,Kate,Thomas,37.73,Black,35-44,265837495,Female,h05,New York,Buffalo
+p10,Jalen,Thomas,25.46,Black,Under 18,732849385,Male,h05,New York,Buffalo
+p11,Emma,Taylor,47.41,White,45-54,690295837,Female,h06,Oregon,Portland
+p12,Ethan,Taylor,35.53,White,Under 18,678291582,Male,h06,Oregon,Portland
+p13,Owen,Taylor,30.59,White,Under 18,928361092,Male,h06,Oregon,Portland
+p14,Grace,Taylor,37.29,White,Under 18,561728309,Female,h06,Oregon,Portland
+p15,Ava,Nguyen,27.17,Asian,55-64,937265837,Female,h07,Texas,El Paso
+p16,Noah,Garcia,32.68,Hispanic,55-64,561286239,Male,h08,Illinois,Joliet
+p17,Jack,Harris,30.59,Black,18-24,126257827,Male,h09,North Dakota,Jamestown
+p18,Charles,Harris,20.36,Black,Under 18,782815287,Male,h09,North Dakota,Jamestown
+p19,William,Clark,32.8,White,Over 65,281765928,Male,h10,Oklahoma,Tulsa
+p20,Isabella,Lewis,23.18,White,25-34,483719675,Female,h11,Utah,Salt Lake City
+p21,Jessica,Lewis,21.84,White,Under 18,338170092,Female,h11,Utah,Salt Lake City
+p22,Dillion,Lewis,17.53,White,Under 18,371928673,Male,h11,Utah,Salt Lake City
+p23,Will,Lewis,18.91,White,Under 18,561709278,Male,h11,Utah,Salt Lake City
+p24,Mia,Lin,30.69,Asian,35-44,672840959,Female,h12,Idaho,Meridian
+p25,Justin,Lin,25.87,Asian,Under 18,768209387,Male,h12,Idaho,Meridian
+p26,Cindy,Lin,23.74,Asian,Under 18,412984109,Female,h12,Idaho,Meridian
+p27,Leslie,Yang,33.725,Asian,45-54,172609418,Male,h13,Montana,Billings
+p28,Sarah,Yang,24.34,Asian,Under 18,801958274,Female,h13,Montana,Billings
+p29,Eric,Yang,29.68,Asian,Under 18,311928672,Male,h13,Montana,Billings
+p30,Frank,Hernandez,37.8,Hispanic,25-34,758270938,Male,h14,Washington,Spokane
+p31,Jesus,Hernandez,28.3,Hispanic,Under 18,884722409,Male,h14,Washington,Spokane
+p32,Patrick,Hill,30.21,White,55-64,539280798,Male,h15,California,Long Beach
+p33,Robert,Johnson,37.905,Pacific Islander,Over 65,451625093,Male,h16,California,Long Beach
+p34,Harper,Walker,31.73,Native American,18-24,482765787,Female,h17,Wyoming,Cheyenne
+p35,Jesse ,Green,36.3,White,55-64,476509182,Female,h18,New York,City of Rochester
